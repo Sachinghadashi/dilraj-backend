@@ -1,0 +1,22 @@
+[
+  {
+    "_id": "69ad5a3a0b6d57f76494e284",
+    "name": "Sachin Ghadashi",
+    "email": "sachinghadashi80@gmail.com",
+    "password": "$2b$10$XU.3hS7Uy6Du3qzo7sZLw.rjz1GT222h2b3nnOYz/3OWphjIiCY0O",
+    "role": "admin",
+    "createdAt": "2026-03-08T11:15:06.684Z",
+    "updatedAt": "2026-03-08T11:15:06.684Z",
+    "__v": 0
+  },
+  {
+    "_id": "69ad5a6b0b6d57f76494e28a",
+    "name": "Vijay Bore",
+    "email": "vijay@gmail.com",
+    "password": "$2b$10$M4Ce6GdcQHPdmt1FwtsOru02TjHw53tsp0EbkPSR8V47oCoVT/7.S",
+    "role": "cashier",
+    "createdAt": "2026-03-08T11:15:55.466Z",
+    "updatedAt": "2026-03-08T11:15:55.466Z",
+    "__v": 0
+  }
+]
